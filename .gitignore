@@ -1,3 +1,7 @@
 .DS_Store
 /images/
 nnmodel_aslmh/
+extracted_frames/
+hand_detected_20250207_061130.mp4
+model/multi_task_gesture_model.h5
+model/multi_task_model.h5
